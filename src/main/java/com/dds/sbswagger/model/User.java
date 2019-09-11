@@ -24,7 +24,6 @@ public class User {
     @ApiModelProperty(value = "用户姓名", example = "zhangdan", required = true)
     private String name;
 
-
     /**
      * 用户地址
      */
